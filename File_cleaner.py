@@ -56,7 +56,7 @@ SCALE = get_scale_factor()
 
 def s(v):
     """缩放整数值"""
-    return int(v * SCALE)
+    return max(1, int(v * SCALE))
 
 def sf(v):
     """缩放字体大小"""
@@ -76,8 +76,8 @@ class RoundedButton(tk.Canvas):
         self._hover_bg = hover_bg
         self._fg = fg
         self._radius = s(radius)
-        self._w = s(width)
-        self._h = s(height)
+        self._btn_width = s(width)    # 原先 self._w
+        self._btn_height = s(height)  # 原先 self._h
         self._font_size = sf(font_size)
         self._draw(bg)
         self.bind("<Enter>", lambda e: self._draw(hover_bg))
@@ -88,7 +88,7 @@ class RoundedButton(tk.Canvas):
     def _draw(self, color):
         self.delete("all")
         r = self._radius
-        w, h = self._w, self._h
+        w, h = self._btn_width, self._btn_height
         # 圆角矩形
         self.create_arc(0, 0, 2*r, 2*r, start=90, extent=90, fill=color, outline=color)
         self.create_arc(w-2*r, 0, w, 2*r, start=0, extent=90, fill=color, outline=color)
