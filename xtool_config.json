@@ -1,5 +1,5 @@
 {
-  "window_geometry": "1000x1000+749+397",
+  "window_geometry": "1000x1094+721+213",
   "dl_user": "huasuyan279953",
   "dl_dir": "E:/【留存】/图/·测试",
   "dl_filter_mode": "manual",
@@ -13,5 +13,1292 @@
   "rn_scroll_delay": "2.5",
   "rn_threshold": "10",
   "rn_dry_run": true,
-  "rn_rename_fmt": "【{display_name}(@{username})】"
+  "rn_rename_fmt": "【{display_name}(@{username})】",
+  "cat_lib_dir": "E:/【漫画本】",
+  "cat_work_dir": "E:/【漫画本】/Ehviewer",
+  "cat_rules": [
+    {
+      "target": "【Bangni邦尼】",
+      "keywords": [
+        "Bangni邦尼",
+        "Bangni"
+      ]
+    },
+    {
+      "target": "【CatDemon喵崽】",
+      "keywords": [
+        "CatDemon喵崽",
+        "CatDemon"
+      ]
+    },
+    {
+      "target": "【Hamumang】",
+      "keywords": [
+        "Hamumang"
+      ]
+    },
+    {
+      "target": "【Hokunaimeko】",
+      "keywords": [
+        "Hokunaimeko"
+      ]
+    },
+    {
+      "target": "【Irisuare】",
+      "keywords": [
+        "Irisuare"
+      ]
+    },
+    {
+      "target": "【KANEKO_咔喵】",
+      "keywords": [
+        "KANEKO_咔喵",
+        "KANEKO_"
+      ]
+    },
+    {
+      "target": "【Kokuhui--yuuhui玉汇】",
+      "keywords": [
+        "Kokuhui",
+        "yuuhui玉汇",
+        "yuuhui"
+      ]
+    },
+    {
+      "target": "【Kyokoyaki】",
+      "keywords": [
+        "Kyokoyaki"
+      ]
+    },
+    {
+      "target": "【Machi馬吉】",
+      "keywords": [
+        "Machi馬吉",
+        "Machi"
+      ]
+    },
+    {
+      "target": "【Natsuko夏夏子】",
+      "keywords": [
+        "Natsuko夏夏子",
+        "Natsuko"
+      ]
+    },
+    {
+      "target": "【Neko_薇薇】",
+      "keywords": [
+        "Neko_薇薇",
+        "Neko_"
+      ]
+    },
+    {
+      "target": "【Nyako喵子】",
+      "keywords": [
+        "Nyako喵子",
+        "Nyako"
+      ]
+    },
+    {
+      "target": "【Plathong】",
+      "keywords": [
+        "Plathong"
+      ]
+    },
+    {
+      "target": "【Quan冉有点饿】",
+      "keywords": [
+        "Quan冉有点饿",
+        "Quan"
+      ]
+    },
+    {
+      "target": "【Shika小鹿鹿】",
+      "keywords": [
+        "Shika小鹿鹿",
+        "Shika"
+      ]
+    },
+    {
+      "target": "【Yamisung】",
+      "keywords": [
+        "Yamisung"
+      ]
+    },
+    {
+      "target": "【Yasal】",
+      "keywords": [
+        "Yasal"
+      ]
+    },
+    {
+      "target": "【Yiko湿润兔-咬一口兔娘-黏黏团子兔】",
+      "keywords": [
+        "Yiko湿润兔",
+        "咬一口兔娘",
+        "黏黏团子兔",
+        "Yiko"
+      ]
+    },
+    {
+      "target": "【ZinieQ】",
+      "keywords": [
+        "ZinieQ"
+      ]
+    },
+    {
+      "target": "【chuchu nagomitei】",
+      "keywords": [
+        "chuchu nagomitei"
+      ]
+    },
+    {
+      "target": "【may_xoxo15】",
+      "keywords": [
+        "may_xoxo15"
+      ]
+    },
+    {
+      "target": "【nookkizz】",
+      "keywords": [
+        "nookkizz"
+      ]
+    },
+    {
+      "target": "【ran3】",
+      "keywords": [
+        "ran3"
+      ]
+    },
+    {
+      "target": "【rioko凉凉子】",
+      "keywords": [
+        "rioko凉凉子",
+        "rioko"
+      ]
+    },
+    {
+      "target": "【riria】",
+      "keywords": [
+        "riria"
+      ]
+    },
+    {
+      "target": "【sayo momo】",
+      "keywords": [
+        "sayo momo"
+      ]
+    },
+    {
+      "target": "【w百合欧皇子w】",
+      "keywords": [
+        "w百合欧皇子w",
+        "ww"
+      ]
+    },
+    {
+      "target": "【一只肉酱阿】",
+      "keywords": [
+        "一只肉酱阿"
+      ]
+    },
+    {
+      "target": "【三度_69】",
+      "keywords": [
+        "三度_69",
+        "_69"
+      ]
+    },
+    {
+      "target": "【九柒喵】",
+      "keywords": [
+        "九柒喵"
+      ]
+    },
+    {
+      "target": "【习呆呆】",
+      "keywords": [
+        "习呆呆"
+      ]
+    },
+    {
+      "target": "【伊喵君_Nya】",
+      "keywords": [
+        "伊喵君_Nya",
+        "_Nya"
+      ]
+    },
+    {
+      "target": "【切切celia】",
+      "keywords": [
+        "切切celia",
+        "celia"
+      ]
+    },
+    {
+      "target": "【十悲伤小木十】",
+      "keywords": [
+        "十悲伤小木十"
+      ]
+    },
+    {
+      "target": "【半半子(BANBANKO)】",
+      "keywords": [
+        "半半子(BANBANKO)",
+        "BANBANKO"
+      ]
+    },
+    {
+      "target": "【双木扶苏】",
+      "keywords": [
+        "双木扶苏"
+      ]
+    },
+    {
+      "target": "【咬一口兔娘(Yiko湿润兔)】",
+      "keywords": [
+        "咬一口兔娘(Yiko湿润兔)",
+        "(Yiko)"
+      ]
+    },
+    {
+      "target": "【团子系列】",
+      "keywords": [
+        "团子系列"
+      ]
+    },
+    {
+      "target": "【安食Ajiki】",
+      "keywords": [
+        "安食Ajiki",
+        "Ajiki"
+      ]
+    },
+    {
+      "target": "【宮本桜】",
+      "keywords": [
+        "宮本桜"
+      ]
+    },
+    {
+      "target": "【封疆疆v】",
+      "keywords": [
+        "封疆疆v"
+      ]
+    },
+    {
+      "target": "【小丁こまち】",
+      "keywords": [
+        "小丁こまち"
+      ]
+    },
+    {
+      "target": "【小仓千代w】",
+      "keywords": [
+        "小仓千代w"
+      ]
+    },
+    {
+      "target": "【小容仔咕咕咕w】",
+      "keywords": [
+        "小容仔咕咕咕w"
+      ]
+    },
+    {
+      "target": "【小瑶幺幺】",
+      "keywords": [
+        "小瑶幺幺"
+      ]
+    },
+    {
+      "target": "【屿鱼Yukako】",
+      "keywords": [
+        "屿鱼Yukako",
+        "Yukako"
+      ]
+    },
+    {
+      "target": "【幼愛youmeko-yume chuu-kawayami】",
+      "keywords": [
+        "幼愛youmeko",
+        "yume chuu",
+        "kawayami",
+        "youmeko"
+      ]
+    },
+    {
+      "target": "【慢炖仓鼠球】",
+      "keywords": [
+        "慢炖仓鼠球"
+      ]
+    },
+    {
+      "target": "【日奈娇】",
+      "keywords": [
+        "日奈娇"
+      ]
+    },
+    {
+      "target": "【星之迟迟】",
+      "keywords": [
+        "星之迟迟"
+      ]
+    },
+    {
+      "target": "【是一只废喵了】",
+      "keywords": [
+        "是一只废喵了"
+      ]
+    },
+    {
+      "target": "【是一只熊仔吗】",
+      "keywords": [
+        "是一只熊仔吗"
+      ]
+    },
+    {
+      "target": "【是夙卿呀】",
+      "keywords": [
+        "是夙卿呀"
+      ]
+    },
+    {
+      "target": "【枣糕-吃谷人黛博魂】",
+      "keywords": [
+        "枣糕",
+        "吃谷人黛博魂"
+      ]
+    },
+    {
+      "target": "【柒柒要乖哦】",
+      "keywords": [
+        "柒柒要乖哦"
+      ]
+    },
+    {
+      "target": "【桃良阿宅】",
+      "keywords": [
+        "桃良阿宅"
+      ]
+    },
+    {
+      "target": "【桜桃喵】",
+      "keywords": [
+        "桜桃喵"
+      ]
+    },
+    {
+      "target": "【樱梨梨Eriri】",
+      "keywords": [
+        "樱梨梨Eriri",
+        "Eriri"
+      ]
+    },
+    {
+      "target": "【橙子喵酱】",
+      "keywords": [
+        "橙子喵酱"
+      ]
+    },
+    {
+      "target": "【水淼aqua】",
+      "keywords": [
+        "水淼aqua",
+        "aqua"
+      ]
+    },
+    {
+      "target": "【沖田凜花Rinka】",
+      "keywords": [
+        "沖田凜花Rinka",
+        "Rinka"
+      ]
+    },
+    {
+      "target": "【清水由乃】",
+      "keywords": [
+        "清水由乃"
+      ]
+    },
+    {
+      "target": "【爆机少女喵小吉】",
+      "keywords": [
+        "爆机少女喵小吉"
+      ]
+    },
+    {
+      "target": "【狐玖玖】",
+      "keywords": [
+        "狐玖玖"
+      ]
+    },
+    {
+      "target": "【白栎Shirly】",
+      "keywords": [
+        "白栎Shirly",
+        "Shirly"
+      ]
+    },
+    {
+      "target": "【白莉爱吃巧克力】",
+      "keywords": [
+        "白莉爱吃巧克力"
+      ]
+    },
+    {
+      "target": "【神沢永莉】",
+      "keywords": [
+        "神沢永莉"
+      ]
+    },
+    {
+      "target": "【纸悦Etau_ko】",
+      "keywords": [
+        "纸悦Etau_ko",
+        "Etau_ko"
+      ]
+    },
+    {
+      "target": "【绞肉姬Walküre】",
+      "keywords": [
+        "绞肉姬Walküre",
+        "Walkre"
+      ]
+    },
+    {
+      "target": "【芝心蛋奶烧】",
+      "keywords": [
+        "芝心蛋奶烧"
+      ]
+    },
+    {
+      "target": "【花柒Hana】",
+      "keywords": [
+        "花柒Hana",
+        "Hana"
+      ]
+    },
+    {
+      "target": "【草莓羽衣】",
+      "keywords": [
+        "草莓羽衣"
+      ]
+    },
+    {
+      "target": "【菌烨tako(Takomayuyi)】",
+      "keywords": [
+        "菌烨tako(Takomayuyi)",
+        "tako(Takomayuyi)"
+      ]
+    },
+    {
+      "target": "【落落Raku】",
+      "keywords": [
+        "落落Raku",
+        "Raku"
+      ]
+    },
+    {
+      "target": "【蠢沫沫】",
+      "keywords": [
+        "蠢沫沫"
+      ]
+    },
+    {
+      "target": "【起司块wii】",
+      "keywords": [
+        "起司块wii",
+        "wii"
+      ]
+    },
+    {
+      "target": "【轩萧学姐】",
+      "keywords": [
+        "轩萧学姐"
+      ]
+    },
+    {
+      "target": "【软萌兔兔酱】",
+      "keywords": [
+        "软萌兔兔酱"
+      ]
+    },
+    {
+      "target": "【钛合金TiTi】",
+      "keywords": [
+        "钛合金TiTi",
+        "TiTi"
+      ]
+    },
+    {
+      "target": "【铃木美咲】",
+      "keywords": [
+        "铃木美咲"
+      ]
+    },
+    {
+      "target": "【阿包也是兔娘】",
+      "keywords": [
+        "阿包也是兔娘"
+      ]
+    },
+    {
+      "target": "【阿薰kaOri】",
+      "keywords": [
+        "阿薰kaOri",
+        "kaOri"
+      ]
+    },
+    {
+      "target": "【阿西】",
+      "keywords": [
+        "阿西"
+      ]
+    },
+    {
+      "target": "【雪晴Astra】",
+      "keywords": [
+        "雪晴Astra",
+        "Astra"
+      ]
+    },
+    {
+      "target": "【霜月shimo】",
+      "keywords": [
+        "霜月shimo",
+        "shimo"
+      ]
+    },
+    {
+      "target": "【面饼仙儿】",
+      "keywords": [
+        "面饼仙儿"
+      ]
+    },
+    {
+      "target": "【香草奶喵】",
+      "keywords": [
+        "香草奶喵"
+      ]
+    },
+    {
+      "target": "【鱼子酱不能睡懒觉】",
+      "keywords": [
+        "鱼子酱不能睡懒觉"
+      ]
+    },
+    {
+      "target": "【麻薯好吃】",
+      "keywords": [
+        "麻薯好吃"
+      ]
+    },
+    {
+      "target": "【Ayame】",
+      "keywords": [
+        "Ayame"
+      ]
+    },
+    {
+      "target": "【DJAWA】",
+      "keywords": [
+        "DJAWA"
+      ]
+    },
+    {
+      "target": "【G44不会受伤】",
+      "keywords": [
+        "G44不会受伤",
+        "G44"
+      ]
+    },
+    {
+      "target": "【Mimmissu(밈미)】",
+      "keywords": [
+        "Mimmissu(밈미)",
+        "Mimmissu()"
+      ]
+    },
+    {
+      "target": "【Xiaolei404】",
+      "keywords": [
+        "Xiaolei404"
+      ]
+    },
+    {
+      "target": "【おふぁーむ (はる)】",
+      "keywords": [
+        "おふぁーむ (はる)",
+        "()"
+      ]
+    },
+    {
+      "target": "【一小央泽】",
+      "keywords": [
+        "一小央泽"
+      ]
+    },
+    {
+      "target": "【清水凪】",
+      "keywords": [
+        "清水凪"
+      ]
+    },
+    {
+      "target": "【猫大人】",
+      "keywords": [
+        "猫大人"
+      ]
+    },
+    {
+      "target": "【疯猫ss】",
+      "keywords": [
+        "疯猫ss",
+        "ss"
+      ]
+    },
+    {
+      "target": "【绮太郎_Kitaro】",
+      "keywords": [
+        "绮太郎_Kitaro",
+        "_Kitaro"
+      ]
+    },
+    {
+      "target": "【过期米线线喵】",
+      "keywords": [
+        "过期米线线喵"
+      ]
+    },
+    {
+      "target": "【013】",
+      "keywords": [
+        "013"
+      ]
+    },
+    {
+      "target": "【AMAM (雨あられ)】",
+      "keywords": [
+        "AMAM (雨あられ)",
+        "AMAM ()"
+      ]
+    },
+    {
+      "target": "【AMAYADORI+ (ハレノチアメ)】",
+      "keywords": [
+        "AMAYADORI+ (ハレノチアメ)",
+        "AMAYADORI+ ()"
+      ]
+    },
+    {
+      "target": "【Armadillo (練慈)】",
+      "keywords": [
+        "Armadillo (練慈)",
+        "Armadillo ()"
+      ]
+    },
+    {
+      "target": "【BlossomSphere (桜湯ハル)】",
+      "keywords": [
+        "BlossomSphere (桜湯ハル)",
+        "BlossomSphere ()"
+      ]
+    },
+    {
+      "target": "【COMEX (珍緑)】",
+      "keywords": [
+        "COMEX (珍緑)",
+        "COMEX ()"
+      ]
+    },
+    {
+      "target": "【Croriin】",
+      "keywords": [
+        "Croriin"
+      ]
+    },
+    {
+      "target": "【DAMDA】",
+      "keywords": [
+        "DAMDA"
+      ]
+    },
+    {
+      "target": "【DawalixiP2】",
+      "keywords": [
+        "DawalixiP2"
+      ]
+    },
+    {
+      "target": "【Fatalpulse (朝凪)】",
+      "keywords": [
+        "Fatalpulse (朝凪)",
+        "Fatalpulse ()"
+      ]
+    },
+    {
+      "target": "【GlowMercury (すこやかグミ)】",
+      "keywords": [
+        "GlowMercury (すこやかグミ)",
+        "GlowMercury ()"
+      ]
+    },
+    {
+      "target": "【Handful☆Happiness! (七原冬雪)】",
+      "keywords": [
+        "Handful☆Happiness! (七原冬雪)",
+        "HandfulHappiness! ()"
+      ]
+    },
+    {
+      "target": "【Hyouuma】",
+      "keywords": [
+        "Hyouuma"
+      ]
+    },
+    {
+      "target": "【IAPOC】",
+      "keywords": [
+        "IAPOC"
+      ]
+    },
+    {
+      "target": "【Ichigo Crown (ゆずりあい)】",
+      "keywords": [
+        "Ichigo Crown (ゆずりあい)",
+        "Ichigo Crown ()"
+      ]
+    },
+    {
+      "target": "【KAMINENDO.CORP (あかざわRED)】",
+      "keywords": [
+        "KAMINENDO.CORP (あかざわRED)",
+        "KAMINENDO.CORP (RED)"
+      ]
+    },
+    {
+      "target": "【KAROMIX (karory)】",
+      "keywords": [
+        "KAROMIX (karory)"
+      ]
+    },
+    {
+      "target": "【KeinV】",
+      "keywords": [
+        "KeinV"
+      ]
+    },
+    {
+      "target": "【Kuro Queen(MSK12003)】",
+      "keywords": [
+        "Kuro Queen(MSK12003)"
+      ]
+    },
+    {
+      "target": "【LUXsumildo】",
+      "keywords": [
+        "LUXsumildo"
+      ]
+    },
+    {
+      "target": "【OrangeMaru (YD)】",
+      "keywords": [
+        "OrangeMaru (YD)"
+      ]
+    },
+    {
+      "target": "【Pirates Cat-パイレーツキャット】",
+      "keywords": [
+        "Pirates Cat",
+        "パイレーツキャット"
+      ]
+    },
+    {
+      "target": "【ROUTE1 (平つくね)】",
+      "keywords": [
+        "ROUTE1 (平つくね)",
+        "ROUTE1 ()"
+      ]
+    },
+    {
+      "target": "【Vパン'sエクスタシー(左藤空气)】",
+      "keywords": [
+        "Vパン'sエクスタシー(左藤空气)",
+        "V's()"
+      ]
+    },
+    {
+      "target": "【W】",
+      "keywords": [
+        "W"
+      ]
+    },
+    {
+      "target": "【dako】",
+      "keywords": [
+        "dako"
+      ]
+    },
+    {
+      "target": "【laterrenamed】",
+      "keywords": [
+        "laterrenamed"
+      ]
+    },
+    {
+      "target": "【mignon】",
+      "keywords": [
+        "mignon"
+      ]
+    },
+    {
+      "target": "【pinkjoe】",
+      "keywords": [
+        "pinkjoe"
+      ]
+    },
+    {
+      "target": "【ratatatat74】",
+      "keywords": [
+        "ratatatat74"
+      ]
+    },
+    {
+      "target": "【skskちゃん2号店 (skskちゃん)】",
+      "keywords": [
+        "skskちゃん2号店 (skskちゃん)",
+        "sksk2 (sksk)"
+      ]
+    },
+    {
+      "target": "【あきのそら】",
+      "keywords": [
+        "あきのそら"
+      ]
+    },
+    {
+      "target": "【あるぷ(alp)】",
+      "keywords": [
+        "あるぷ(alp)",
+        "(alp)"
+      ]
+    },
+    {
+      "target": "【うなハウス (うなっち)】",
+      "keywords": [
+        "うなハウス (うなっち)",
+        "()"
+      ]
+    },
+    {
+      "target": "【おふとんでスヤァ (みつどうえ)】",
+      "keywords": [
+        "おふとんでスヤァ (みつどうえ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【しぐれえび (レフトハンド)】",
+      "keywords": [
+        "しぐれえび (レフトハンド)",
+        "()"
+      ]
+    },
+    {
+      "target": "【じゅらい】",
+      "keywords": [
+        "じゅらい"
+      ]
+    },
+    {
+      "target": "【すけべ発電所 (発電ペンギン)】",
+      "keywords": [
+        "すけべ発電所 (発電ペンギン)",
+        "()"
+      ]
+    },
+    {
+      "target": "【だにまる】",
+      "keywords": [
+        "だにまる"
+      ]
+    },
+    {
+      "target": "【でんきねこ (とく)】",
+      "keywords": [
+        "でんきねこ (とく)",
+        "()"
+      ]
+    },
+    {
+      "target": "【にぎりうさぎ(Nigiri usagi)】",
+      "keywords": [
+        "にぎりうさぎ(Nigiri usagi)",
+        "(Nigiri usagi)"
+      ]
+    },
+    {
+      "target": "【ひょこ道 (ひょころー)】",
+      "keywords": [
+        "ひょこ道 (ひょころー)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ぷぅ崎ぷぅ奈】",
+      "keywords": [
+        "ぷぅ崎ぷぅ奈"
+      ]
+    },
+    {
+      "target": "【ほっけばいん！ (はるこん)】",
+      "keywords": [
+        "ほっけばいん！ (はるこん)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ぽち小屋。(ぽち。)】",
+      "keywords": [
+        "ぽち小屋。(ぽち。)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ぽりうれたん(Poriuretan)】",
+      "keywords": [
+        "ぽりうれたん(Poriuretan)",
+        "(Poriuretan)"
+      ]
+    },
+    {
+      "target": "【ぽんたろ家 (ぽんたろ)】",
+      "keywords": [
+        "ぽんたろ家 (ぽんたろ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【みけねこ (simao)】",
+      "keywords": [
+        "みけねこ (simao)",
+        "(simao)"
+      ]
+    },
+    {
+      "target": "【みずのウロ (ミズノズク)】",
+      "keywords": [
+        "みずのウロ (ミズノズク)",
+        "()"
+      ]
+    },
+    {
+      "target": "【もふまんじゅう (ぴろまゆ)】",
+      "keywords": [
+        "もふまんじゅう (ぴろまゆ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【アットホーム酒家 (たくのみ)】",
+      "keywords": [
+        "アットホーム酒家 (たくのみ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【エロ井ロエ(Eroi-Roe)】",
+      "keywords": [
+        "エロ井ロエ(Eroi",
+        "Roe)",
+        "(Eroi"
+      ]
+    },
+    {
+      "target": "【オンキュウ (オンキュウ)】",
+      "keywords": [
+        "オンキュウ (オンキュウ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【クレスタ (呉マサヒロ)】",
+      "keywords": [
+        "クレスタ (呉マサヒロ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【シャーやま】",
+      "keywords": [
+        "シャーやま"
+      ]
+    },
+    {
+      "target": "【スタジオ☆ひまわり (日向恭介)】",
+      "keywords": [
+        "スタジオ☆ひまわり (日向恭介)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ツリサス】",
+      "keywords": [
+        "ツリサス"
+      ]
+    },
+    {
+      "target": "【テラスMC】",
+      "keywords": [
+        "テラスMC",
+        "MC"
+      ]
+    },
+    {
+      "target": "【トネリ団(よしおエレキ)】",
+      "keywords": [
+        "トネリ団(よしおエレキ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【トランポリンプリン (マッパニナッタ)】",
+      "keywords": [
+        "トランポリンプリン (マッパニナッタ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ドデカビタミン (あきすこ)】",
+      "keywords": [
+        "ドデカビタミン (あきすこ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ハチミン (えいとまん)】",
+      "keywords": [
+        "ハチミン (えいとまん)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ビーンズ豆 (モチヂ)】",
+      "keywords": [
+        "ビーンズ豆 (モチヂ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【メメ屋 (メメ50)】",
+      "keywords": [
+        "メメ屋 (メメ50)",
+        "(50)"
+      ]
+    },
+    {
+      "target": "【モルんち (モルチ)】",
+      "keywords": [
+        "モルんち (モルチ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【ヨールキ・パールキ (露々々木もげら)】",
+      "keywords": [
+        "ヨールキ・パールキ (露々々木もげら)",
+        "()"
+      ]
+    },
+    {
+      "target": "【一ノ瀬ランド】",
+      "keywords": [
+        "一ノ瀬ランド"
+      ]
+    },
+    {
+      "target": "【三崎】",
+      "keywords": [
+        "三崎"
+      ]
+    },
+    {
+      "target": "【乱視と君と。 (santa)】",
+      "keywords": [
+        "乱視と君と。 (santa)",
+        "(santa)"
+      ]
+    },
+    {
+      "target": "【南拳蟑狼】",
+      "keywords": [
+        "南拳蟑狼"
+      ]
+    },
+    {
+      "target": "【南浜屋 (南浜よりこ)】",
+      "keywords": [
+        "南浜屋 (南浜よりこ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【塞翁が牛】",
+      "keywords": [
+        "塞翁が牛"
+      ]
+    },
+    {
+      "target": "【夏彦】",
+      "keywords": [
+        "夏彦"
+      ]
+    },
+    {
+      "target": "【天三月】",
+      "keywords": [
+        "天三月"
+      ]
+    },
+    {
+      "target": "【宇宙クレヨン (ひさにぃ)】",
+      "keywords": [
+        "宇宙クレヨン (ひさにぃ)",
+        "()"
+      ]
+    },
+    {
+      "target": "【富士やま】",
+      "keywords": [
+        "富士やま"
+      ]
+    },
+    {
+      "target": "【憑依ラヴァー】",
+      "keywords": [
+        "憑依ラヴァー"
+      ]
+    },
+    {
+      "target": "【星名めいと】",
+      "keywords": [
+        "星名めいと"
+      ]
+    },
+    {
+      "target": "【木鈴亭 (木鈴カケル)】",
+      "keywords": [
+        "木鈴亭 (木鈴カケル)",
+        "()"
+      ]
+    },
+    {
+      "target": "【柊ぽぷら】",
+      "keywords": [
+        "柊ぽぷら"
+      ]
+    },
+    {
+      "target": "【満開開花】",
+      "keywords": [
+        "満開開花"
+      ]
+    },
+    {
+      "target": "【準特注くろますく (へたれん)】",
+      "keywords": [
+        "準特注くろますく (へたれん)",
+        "()"
+      ]
+    },
+    {
+      "target": "【煌野一人】",
+      "keywords": [
+        "煌野一人"
+      ]
+    },
+    {
+      "target": "【煎茶柱】",
+      "keywords": [
+        "煎茶柱"
+      ]
+    },
+    {
+      "target": "【真白しらこ】",
+      "keywords": [
+        "真白しらこ"
+      ]
+    },
+    {
+      "target": "【羊小屋 (橘由宇)】",
+      "keywords": [
+        "羊小屋 (橘由宇)",
+        "()"
+      ]
+    },
+    {
+      "target": "【翁賀馬乃助】",
+      "keywords": [
+        "翁賀馬乃助"
+      ]
+    },
+    {
+      "target": "【聖華快楽書店】",
+      "keywords": [
+        "聖華快楽書店"
+      ]
+    },
+    {
+      "target": "【肉棒魔羅ノ進】",
+      "keywords": [
+        "肉棒魔羅ノ進"
+      ]
+    },
+    {
+      "target": "【蒼き星 (全白)】",
+      "keywords": [
+        "蒼き星 (全白)",
+        "()"
+      ]
+    },
+    {
+      "target": "【薺屋本舗 (7zu7】",
+      "keywords": [
+        "薺屋本舗 (7zu7",
+        "(7zu7"
+      ]
+    },
+    {
+      "target": "【袁腾冲人】",
+      "keywords": [
+        "袁腾冲人"
+      ]
+    },
+    {
+      "target": "【调四季】",
+      "keywords": [
+        "调四季"
+      ]
+    },
+    {
+      "target": "【赤月屋 (赤月みゅうと)】",
+      "keywords": [
+        "赤月屋 (赤月みゅうと)",
+        "()"
+      ]
+    },
+    {
+      "target": "【関西漁業協同組合 (丸新)】",
+      "keywords": [
+        "関西漁業協同組合 (丸新)",
+        "()"
+      ]
+    },
+    {
+      "target": "【陸の孤島亭 (しゃよー)】",
+      "keywords": [
+        "陸の孤島亭 (しゃよー)",
+        "()"
+      ]
+    }
+  ]
 }
